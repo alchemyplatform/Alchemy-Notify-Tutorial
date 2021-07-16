@@ -18,7 +18,7 @@ Note that if you don't want to spend mainnet Ethereum to try out this tutorial, 
 For ease of user experience, we configured this particular tutorial to run on Heroku, but you are more than welcome to use other service providers!
 ***
 
-### 🚀 Luanching with Heroku ###
+### 🚀 Launching with Heroku ###
 
  1. Get the repo!
 
