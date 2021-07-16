@@ -22,7 +22,7 @@ For ease of user experience, we configured this particular tutorial to run on He
 
  1. Get the repo!
 
-      * `git clone https://github.com/pileofscraps/alchemy_notify.git`
+      * `git clone https://github.com/alchemyplatform/Alchemy-Notify-Tutorial`
 
 For all Heroku dependent documentation, refer to:
 https://devcenter.heroku.com/articles/getting-started-with-nodejs?singlepage=true 
