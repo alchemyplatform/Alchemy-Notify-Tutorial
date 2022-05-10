@@ -43,7 +43,8 @@ async function addAddress(new_address) {
       headers: { 'X-Alchemy-Token': <Alchemy-auth-key>}
     })
       .then(res => res.json())
-      .then(json => console.log(json));
+      .then(json => console.log("Successfully added address:", json))
+      .catch(err => console.log("Error! Unable to add address:", err));
   }
   catch (err) {
     console.error(err);
